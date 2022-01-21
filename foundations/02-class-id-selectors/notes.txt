@@ -1,0 +1,7 @@
+notes:
+Upon creating class and id and implementing them in  index.html, I got the following results:
+First attempt:
+*Element 2 changed color to blue text. This matched the desired outcome partially because the size remained small.  Upon checking it was noticed that a colon instead of a dash had broken the code. Correcting this resulted in text that was the blue color and appropriate size. However, the text is serif and the example is sans-serif so we may need to apply a class further. Perhaps this is the lesson wanted by the creator of the exercise.
+*Element 4 changed background to the appropriate green color.It is bolded but not quite as much as the other example desires.
+Perhaps we will add strength to it.
+We also need to add sans-serif to it.
