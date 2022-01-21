@@ -19,4 +19,9 @@ class {
 }
 /*Element 3: light red/pink background, list of fonts containing verdana and dejavu sans with sans serif fall-back, font size 24px* --- class called class/
 /*Element 4: light green background, font-size 24px, bold --- id called id2*/
+#id2 {
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
 /*Element 5: light red/pink background, and list of fonts containing Verdana and DejaVu Sans with sans-serif fall back --- this element is implied by rule odd elements. --- class called class*/
