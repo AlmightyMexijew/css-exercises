@@ -1,6 +1,6 @@
 .odd{
     background-color: pink;
-    font-family: Verdana sans-serif,DejaVu Sans, sans-serif;
+    font-family: Verdana , DejaVu Sans, sans-serif;
 }
 .third{
 
@@ -13,5 +13,5 @@
 #id2{
     background-color:lightgreen;
     font-size:24px;
-    font-weight:bolder;
+    font-weight:bold;
 }
