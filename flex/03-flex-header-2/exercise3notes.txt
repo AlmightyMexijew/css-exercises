@@ -1,0 +1,4 @@
+notes for exercise 3
+First thing we wanted to do was to put things sideways. We did that with the display:flex; property in the header. We identified the header as the parent container where others were inside it (logo and links). I also set links to flex which made things line up nicely. Perhaps even just doing that was sufficient but I won't know til we're done.
+
+The problem is the links are not spacing well. I'm not sure why. I've tried margin and gap and I see progress but it's still not perfect. It needs tweaking. I changed gap from 8px experimentally to 16px which seems a lot closer to the one we're aiming for.

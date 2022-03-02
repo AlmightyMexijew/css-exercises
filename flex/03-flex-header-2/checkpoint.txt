@@ -1,0 +1,5 @@
+checkpoint
+A) Everything is centered vertically inside the header (justify-content:center;)
+B)There is 8px space between everything and the edge of the header.
+C)Items are arranged between each item on both sides of the header.(justify-content:space-between? or around?)
+D)Flex is used to arrange everything.
